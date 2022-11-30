@@ -1,4 +1,4 @@
-# grocery
+# Azure IoT Central 
 
 ## Project setup
 ```
