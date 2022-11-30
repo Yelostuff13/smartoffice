@@ -1,4 +1,4 @@
-# Azure IoT Central 
+# Sharing user IoT device via NFC
 
 ## Project setup
 ```
