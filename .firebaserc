@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "smart-office-webapp",
+    "sic": "sic-iot-webapp"
+  },
+  "targets": {},
+  "etags": {}
+}
